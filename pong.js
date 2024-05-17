@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><body><style>html { background-color: black; } </style> <script>window.pheight = true; 
+
 function makebox(name,color,width,height,x,y,zindex){
     let box = document.createElement("div");
     box.style.position = "absolute";
@@ -160,4 +160,3 @@ window.addEventListener("keyup", (key) => {
     }
 })
 
-</script></body></html>
